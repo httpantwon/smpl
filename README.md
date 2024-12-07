@@ -1,5 +1,5 @@
 **10 Essential Tips for Landing a Tech Internship**
-**1. Lay a Strong Technical Foundation**
+1. Lay a Strong Technical Foundation
     * Before diving into applications, make sure you have a solid understanding of key concepts in your chosen field
     * Whether it’s learning programming languages like Python, Java, or C++, understanding data structures and algorithms, or mastering web development frameworks, having a strong technical base will make you a competitive candidate
     * For example, recruiters often ask about fundamental concepts in interviews, so being well-prepared ensures you’ll leave a lasting impression
